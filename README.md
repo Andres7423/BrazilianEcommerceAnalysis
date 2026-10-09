@@ -64,4 +64,4 @@ Python, pandas, NumPy, Google Colab, Kaggle Hub
 
 ## Author
 
-Andres Moncada | [LinkedIn](www.linkedin.com/in/jerson-moncada-a67276219)
+Andres Moncada | [www.linkedin.com/in/jerson-moncada-a67276219]
